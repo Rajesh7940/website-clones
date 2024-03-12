@@ -1,0 +1,150 @@
+body{
+    z-index: 0;
+    background-color: rgb(203, 181, 162);
+}
+div{
+    background-color:peachpuff;
+    opacity: 0.8;
+    position: fixed;
+    width: 100%;
+    height: max-content;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    z-index: 1;
+    margin-top: -10px;
+    margin-left: -10px;
+
+    
+}
+#name{
+    font-size: 2.5rem;
+    margin-left: 30px;
+    margin-top: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: inline;
+
+}
+#ul1 li{
+    list-style-type: none;
+    display: inline;
+   
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#ul1 li:hover{
+    background-color: bisque;
+}
+
+#ul1{
+    margin-top: 30px;
+    margin-left: 240px;
+    display: inline;
+    padding-bottom: 10px;
+
+}
+#profile{
+    display: inline;
+    height: 250px;
+    width: 250px;
+    margin-left: 200px;
+    margin-top: 150px;
+    border-radius: 50%;
+    margin-right: 60px;
+    border: solid black;
+}
+#bioo{
+    list-style-type: none;
+    position: absolute;
+    margin-top: 150px;
+    text-align:right;
+    margin-left: auto;
+    text-align: left;
+    font-size: 50px;
+}
+#div3{
+    display: inline;
+    margin-top: 100px;
+}
+ul{
+    display: inline;
+    margin-top: 100px;
+}
+#dash{
+    display: inline;
+    margin-top: 160px;
+    margin-left: 300px;
+    position: absolute;
+
+}
+#intro{
+    display: inline;
+    margin-top: 150px;
+    margin-left: 535px;
+    position: absolute;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#about{
+    display: inline;
+    margin-top: 140px;
+    margin-left: 650px;
+    position: absolute;
+    margin-right: 10px;
+    font-size: 25px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 50px;
+}
+#quote{
+    font-size: 50px;
+    margin-left: -1px;
+    margin-top: 1090px;
+    border: solid ;
+    border-color: white;
+    padding: 90px;
+    text-align: center;
+    background-color: white;
+    position: absolute;
+
+}
+#h3{
+    margin-left: 580px;
+    margin-top: 1350px;
+    position: absolute;
+}
+#sign{
+    position:absolute;
+    margin-top:1450px ;
+    margin-left: 545px;
+}
+#email{
+    position:absolute;
+    margin-top:1500px ;
+    margin-left: 470px;
+}
+#bottom{
+    margin-top:1600px ;
+    position: static;
+    
+}
+#div0{
+    position: relative;
+    z-index: 1;
+}
+.logo{
+    height: 17px;
+}
+#li{
+    margin-left: 15px;
+    padding-top: 40px;
+    padding-bottom: 10px;
+    margin-right: -1px;
+   
+    padding-left: 7px;
+    padding-right: 7px;
+}
+#logo{
+    padding-top: 40px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 13px;
+    margin-top: 10px;
+}
